@@ -2,7 +2,7 @@
 title: "বুক রিভিউ: কোথাও কেউ নেই - হুমায়ূন আহমেদ"
 layout: post
 --- 
-![cover photo](https://github.com/Amuu26/amuu26.github.io/blob/main/images%20(37).jpeg)
+![cover photo](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1346479035l/15961145.jpg)
 
 <ins>বই সম্পর্কিত কিছু সাধারণ তথ্য</ins>
 * বইয়ের নাম : কোথাও কেউ নেই 
